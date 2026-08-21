@@ -28,3 +28,4 @@ import torch
 _RAW_TO_BASE_IDX = {2: 0,3: 1,4: 2,5: 3}
 Bases = [A,T,C,G]
 # DeepCRISPR sequence encoding
+# Hi
