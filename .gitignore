@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+
+# VS Code settings
+.vscode/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+
+# Generated results
+results/
